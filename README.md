@@ -16,35 +16,35 @@ but to **understand how GenAI fits into real cloud operating models**.
 
 ```
 /00-overview
-  mcp-mental-model.md
-  architecture-diagrams.md
-  security-and-guardrails.md
+  mcp-mental-model
+  architecture-diagrams
+  security-and-guardrails
 
 /01-setup
-  wsl-ubuntu-setup.md
-  aws-cli-profiles.md
-  amazon-q-cli-setup.md
-  troubleshooting-auth-sso.md
+  wsl-ubuntu-setup
+  aws-cli-profiles
+  amazon-q-cli-setup
+  troubleshooting-auth-sso
 
 /02-mcp-servers
-  cfn-mcp-server.md
-  cloudwatch-mcp-server.md
-  server-selection-guide.md
+  cfn-mcp-server
+  cloudwatch-mcp-server
+  server-selection-guide
 
 /03-labs
-  lab-01-s3-with-encryption-versioning.md
-  lab-02-serverless-stack-apigw-lambda-s3.md
-  lab-03-failure-repair-loop-circular-dependency.md
-  lab-04-cleanup-and-cost-safety.md
+  lab-01-s3-with-encryption-versioning
+  lab-02-serverless-stack-apigw-lambda-s3
+  lab-03-failure-repair-loop-circular-dependency
+  lab-04-cleanup-and-cost-safety
 
 /04-use-cases
-  usecase-infra-from-intent.md
-  usecase-incident-triage.md
-  usecase-platform-guardrails.md
+  usecase-infra-from-intent
+  usecase-incident-triage
+  usecase-platform-guardrails
 
 /05-leadership-notes
-  executive-summary.md
-  operating-model.md
-  adoption-roadmap.md
+  executive-summary
+  operating-model
+  adoption-roadmap
 
 ```
