@@ -14,7 +14,7 @@ It is a **deep-dive exploration of agentic cloud operations** with:
 The goal is not to “try MCP”,
 but to **understand how GenAI fits into real cloud operating models**.
 
-
+```
 /00-overview
   mcp-mental-model.md
   architecture-diagrams.md
@@ -47,3 +47,4 @@ but to **understand how GenAI fits into real cloud operating models**.
   operating-model.md
   adoption-roadmap.md
 
+```
