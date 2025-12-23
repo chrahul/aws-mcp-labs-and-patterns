@@ -1,6 +1,7 @@
 # `/04-use-cases`
 
-<img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/ef4efa83-1ed0-46f3-9e82-ec7898e0c0ef" />
+
+<img width="1276" height="404" alt="image" src="https://github.com/user-attachments/assets/18c22208-41f0-4e01-b321-c96ff9e1282f" />
 
 
 ## Purpose of This Section
