@@ -48,3 +48,9 @@ but to **understand how GenAI fits into real cloud operating models**.
   adoption-roadmap
 
 ```
+
+References:
+
+* [https://docs.aws.amazon.com/aws-mcp/latest/userguide/getting-started-aws-mcp-server.html](https://docs.aws.amazon.com/aws-mcp/latest/userguide/getting-started-aws-mcp-server.html)
+* [https://github.com/awslabs/mcp](https://github.com/awslabs/mcp)
+* [https://awslabs.github.io/mcp/](https://awslabs.github.io/mcp/)
